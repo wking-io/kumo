@@ -1,0 +1,419 @@
+{
+  "baseline": "a39b1a293a0d7bcd8800c81e3ffda79c4bdf8ef9",
+  "after": "59cfda492932d739ededfcc55a2b690d973ae36c",
+  "browser": "Chromium 143",
+  "forcedColors": "none",
+  "comparisons": 68,
+  "identical": 68,
+  "errors": [],
+  "results": [
+    {
+      "mode": "light",
+      "control": "button",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "button",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "link",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "link",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "copy",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "copy",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "input",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "input",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "textarea",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "textarea",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "checkbox",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "checkbox",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "radio",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "radio",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "switch",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "switch",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "select",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "select",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "group",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "group",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "hybrid",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "hybrid",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "tags",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "tags",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "slider",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "slider",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "tabs-segmented-base",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "tabs-segmented-base",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "tabs-segmented-sm",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "tabs-segmented-sm",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "tabs-underline-base",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "tabs-underline-base",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "tabs-underline-sm",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "light",
+      "control": "tabs-underline-sm",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "button",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "button",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "link",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "link",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "copy",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "copy",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "input",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "input",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "textarea",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "textarea",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "checkbox",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "checkbox",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "radio",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "radio",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "switch",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "switch",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "select",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "select",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "group",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "group",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "hybrid",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "hybrid",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "tags",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "tags",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "slider",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "slider",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "tabs-segmented-base",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "tabs-segmented-base",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "tabs-segmented-sm",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "tabs-segmented-sm",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "tabs-underline-base",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "tabs-underline-base",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "tabs-underline-sm",
+      "state": "idle",
+      "diffPixels": 0
+    },
+    {
+      "mode": "dark",
+      "control": "tabs-underline-sm",
+      "state": "keyboard-focus",
+      "diffPixels": 0
+    }
+  ]
+}

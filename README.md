@@ -26,3 +26,7 @@ Keyboard Tab navigation with Chromium forced-color emulation. This emulates the 
 The product branches contain the regression tests and changesets. This evidence branch keeps recordings out of their package diffs.
 
 The tab list clips outlines outside its scrolling viewport. The corrected recording includes an inset forced-color outline and checks the first and final tab. Regression tests cover both tab styles, both sizes, and scrolling/non-scrolling layouts.
+
+## Normal-color regression comparison
+
+[Comparison results](normal-focus-comparison.json): with forced colors disabled, all 68 screenshots were pixel-identical between upstream `a39b1a2` and the corrected focus branch `59cfda4`. This covers 17 control/variant fixtures, light and dark modes, and unfocused/keyboard-focused states in Chromium 143. Both tab styles and sizes, InputGroup container/hybrid modes, TagInput, and Slider are included.
