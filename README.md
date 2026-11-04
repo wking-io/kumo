@@ -19,7 +19,10 @@ These are viewport recordings, not physical device or mobile keyboard tests. Dia
 Keyboard Tab navigation with Chromium forced-color emulation. This emulates the CSS media feature; it is not a native Windows high-contrast test.
 
 - [Before](focus-before.mp4)
-- [After](focus-after.mp4)
+- [Corrected after recording](focus-after-corrected.mp4) — complete outlines on both tabs
+- [Initial fix recording](focus-initial-fix.mp4) — retained to document the clipped tab outline caught during review
 - Focused button: [before](focus-before.png), [after](focus-after.png)
 
 The product branches contain the regression tests and changesets. This evidence branch keeps recordings out of their package diffs.
+
+The tab list clips outlines outside its scrolling viewport. The corrected recording includes an inset forced-color outline and checks the first and final tab. Regression tests cover both tab styles, both sizes, and scrolling/non-scrolling layouts.
