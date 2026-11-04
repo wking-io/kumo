@@ -1,0 +1,42 @@
+[
+  {
+    "size": "desktop",
+    "version": "before",
+    "top": 64,
+    "bottom": 981,
+    "scrollTop": 0,
+    "clientHeight": 917,
+    "scrollHeight": 917,
+    "saveBottom": 957
+  },
+  {
+    "size": "desktop",
+    "version": "after",
+    "top": 64,
+    "bottom": 468,
+    "scrollTop": 513,
+    "clientHeight": 404,
+    "scrollHeight": 917,
+    "saveBottom": 444
+  },
+  {
+    "size": "phone",
+    "version": "before",
+    "top": 32,
+    "bottom": 949,
+    "scrollTop": 0,
+    "clientHeight": 917,
+    "scrollHeight": 917,
+    "saveBottom": 925
+  },
+  {
+    "size": "phone",
+    "version": "after",
+    "top": 32,
+    "bottom": 568,
+    "scrollTop": 381,
+    "clientHeight": 536,
+    "scrollHeight": 917,
+    "saveBottom": 544
+  }
+]
